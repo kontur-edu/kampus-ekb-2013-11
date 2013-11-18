@@ -12,6 +12,10 @@ http://www.visualstudio.com/downloads/download-visual-studio-vs
 Чтобы не нарушать душевное равновесие преподавателей русским интерфейсом Visual Studio, 
 лучше сразу же установить English language pack — он доступен по ссылке выше.
 
+###Resharper
+Скачать и установить trial версию вот от сюда: www.jetbrains.com/resharper/
+
+Рекомендуется посмотреть доступное по ссылке выше видео про решарпер.
 
 ### Git
 Скачайте консольный клиент: http://git-scm.com/downloads
