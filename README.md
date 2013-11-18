@@ -3,7 +3,7 @@
 
 Материалы выездной студенческой школы по программированию.
 
-* [Что нужно установить на ноутбук?](Software.md)
+* [Что нужно сделать ДО Кампуса?](Preparations.md)
 * [Программа школы](https://docs.google.com/spreadsheet/ccc?key=0AlW9g0IejZAVdGo4YlFoaE9yYlRyZUtROUVMQUVSQ3c&usp=drive_web#gid=0)
 * [Запись на семинар](https://docs.google.com/spreadsheet/ccc?key=0AlW9g0IejZAVdEMyTFBFbjRHT3R1b2l0dmtndGVGMWc#gid=0)
 
