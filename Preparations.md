@@ -25,6 +25,10 @@ http://www.visualstudio.com/downloads/download-visual-studio-vs
 * Выбрать "Git Bash Here" — это добавит в контекстное меню проводника пункт "Git Bash Here".
 * Выбрать пункт Run git from the windows command prompt
 * Выбрать пункт Checkout as is, commit as is
+
+Если у вас уже установлен консольный git-клиент, то убедитесь, что в Explorer-е в контекстном меню 
+на директории (любой) есть пункт меню "Git Bash Here". 
+Если такого пункта нет, то нужно переустановить клиент с указанными выше настройками.
  
 
 ### Github
