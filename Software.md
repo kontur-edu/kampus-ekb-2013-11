@@ -1,7 +1,7 @@
-Что нужно установить на ноутбук?
+Что нужно сделать до Кампуса?
 ===
 
-###Visual Studio 2012 или 2013.
+###Visual Studio 2012 или 2013
 Можно скачать trial версию 2013 тут: 
 http://www.visualstudio.com/downloads/download-visual-studio-vs
 Будет достаточно достаточно Pro версии.
