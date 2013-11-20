@@ -11,3 +11,11 @@
 --
 
 TODO
+
+Для домашнего изучения
+---
+* [Pro Git Book](http://git-scm.com/book/ru)
+* [Learn git branching game](http://pcottle.github.io/learnGitBranching/)
+* Книга [Чистый код. Роберт Мартин](http://www.ozon.ru/context/detail/id/5011068/)
+* Free e-book [Threading in C#](http://www.albahari.com/threading/)
+* ...
