@@ -19,7 +19,6 @@
 * [Persistent Data Structures](http://en.wikipedia.org/wiki/Persistent_data_structure)
 * [Элементы функционального программирования](http://fprog.ru/2009/issue3/eugene-kirpichov-elements-of-functional-languages/)
 * Free e-book [Threading in C#](http://www.albahari.com/threading/)
-* ...
 
 AI Challenge
 ---
